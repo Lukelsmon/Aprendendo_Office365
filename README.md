@@ -18,10 +18,14 @@
 
 > Curso de 110h online disponibilizados gratuitamente pela Bradesco com certificado
 
-Irei anotar neste repositório todas as informações que poderei aprender com o passar dos dias até conseguir meu certificado e postar neste repositório também.
+<div>
+    <p>Irei anotar neste repositório todas as informações que poderei aprender com o passar dos dias até conseguir meu certificado e postar neste repositório também.
+    <img align="right" src="https://media.tenor.com/zR98IGa1xFwAAAAi/deltarune-omega-flowery.gif" width="30" height="100" valign="middle">
+</p>
 
-<img align="right" src="https://media.tenor.com/zR98IGa1xFwAAAAi/deltarune-omega-flowery.gif" width="30" height="100" valign="middle">
+</div>
 
 #### Link: https://www.ev.org.br/trilhas-de-conhecimento/pacote-office-2016
 
 ---
+
